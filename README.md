@@ -6,7 +6,7 @@ It's a Vencord userplugin. One file. Drop it in and any `.html` file someone sen
 
 ## Install
 
-Needs the same Vencord build setup as my other plugins. If you already have a `VencordBuild` folder from FileSizeBypass or similar:
+Needs the same Vencord build setup as my other plugins. If you already have a `VencordBuild`:
 
 ```text
 cd your VencordBuild/Vencord/src/userplugins/
